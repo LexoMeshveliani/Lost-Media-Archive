@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "game",
+      "title": "Lost Flash Games",
+      "icon": "🎮",
+      "description": "A vault of browser-based games that once ruled school computer labs—now lost to the end of Flash. Click, dodge, and relive the chaos.",
+      "image": "images/mortal-kombat.gif"
+    },
+    {
+      "id": "vhs",
+      "title": "Classic VHS",
+      "icon": "📼",
+      "description": "Grainy tapes. Tracking lines. Banned TV airings. Explore forgotten films that lived in chunky plastic boxes and late-night shelves.",
+      "image": "images/tv-gif.gif"
+    },
+    {
+      "id": "comics",
+      "title": "Forgotten Comics",
+      "icon": "📖",
+      "description": "Indie comic that disappeared after one issue, but managed to gather a niche but loyal following during it's time.",
+      "image": "images/comics.gif"
+    },
+    {
+      "id": "arcade",
+      "title": "Arcade Exclusive",
+      "icon": "🕹️",
+      "description": "Indie runs, pulpy plots, and one-issue wonders—comics that vanished before they found an audience. Their panels live on here.",
+      "image": "images/arcade.gif"
+    },
+    {
+      "id": "movies",
+      "title": "Deleted Movies",
+      "icon": "🎬",
+      "description": "Films that were pulled, re-cut, or never released at all. Rumors, rough cuts, and stories Hollywood tried to erase.",
+      "image": "images/accessDenied.gif"
+    },
+    {
+      "id": "magazines",
+      "title": "Game Magazines",
+      "icon": "📰",
+      "description": "From cheat codes to cover art—vintage gaming magazines that documented an era before patch notes and DLC.",
+      "image": "images/magazine.jpg"
+    }
+  ]
+}

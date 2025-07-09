@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lost Media Archive</title>
+  <link rel="stylesheet" href="./style/style.css">
+</head>
+<body>
+  <header>
+    <video autoplay loop muted playsinline>
+      <source src="./images/pixelBackground.mp4" type="video/mp4">
+    </video>
+    <nav>
+      <button class="burger" onclick="toggleMenu()">☰</button>
+      <ul class="menu" id="menu">
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Suggest</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </nav>
+    <h1>Lost Media Archive</h1>
+  </header>
+
+  <main>
+    <section class="text">
+      <p class="text1">Welcome to the archive of forgotten media — games, comics, movies, and more from the past. </p>
+      <p class="text2"><br>Choose The Category:</p>
+    </section>
+
+    <section class="catalog" id="catalog">
+    </section>
+  </main>
+
+  <script src="./scripts/script.js"></script>
+</body>
+</html>
