@@ -2,6 +2,8 @@
 
 A retro-themed web archive for forgotten and lost media: games, comics, movies, VHS tapes, arcade exclusives, and vintage magazines.
 
+**This is my first ever web project, created for a university assignment and as part of my personal portfolio.**
+
 ## Features
 
 - Browse categories of lost media with pixel-art inspired design
